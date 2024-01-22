@@ -7,7 +7,7 @@ function draw(){
   fill(255,0,0);
   ellipse(50,50,80,80);
 
-  fill(0,0,225);
+  fill(225,0,0);
  ellipse(250,50,80,80);
   
 }
