@@ -4,7 +4,7 @@ function setup(){
 
 function draw(){
   background(200);
-  // fill("light blue");
+  // fill("red");
   rec(50,50,100,100);
   
 }
