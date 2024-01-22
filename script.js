@@ -4,6 +4,8 @@ function setup(){
 
 function draw(){
   background(200);
-  // add your drawing code here ...
+  // ellipse(x, 240, 50, 50);
+  trangle( x, 180, 60, 40) ;
+
   
 }
