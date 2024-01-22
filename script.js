@@ -5,6 +5,6 @@ function setup(){
 function draw(){
   background(200);
   // 
-  rec(50,50,80,80);
+  rec(20,20,40,40);
   
 }
