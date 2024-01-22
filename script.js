@@ -5,6 +5,9 @@ function setup(){
 function draw(){
   background(200);
   // 
+  fill("blue") ;
+  rec(50,50,100,100) ;
+  
 
   
 }
