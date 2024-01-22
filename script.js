@@ -5,6 +5,6 @@ function setup(){
 function draw(){
   background(200);
   // 
-  rec(20,20,40,40);
-  
+  Fill(255,200, 50);
+  ellispse(150,50,50);
 }
