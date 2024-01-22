@@ -11,8 +11,6 @@ function draw(){
   fill("yellow") ;
   ellipse(20,20,50,50) ;
 
-  fill("red") ;
-  triangle((150, 300, 300, 200, 450, 300) ;
   
   
 
