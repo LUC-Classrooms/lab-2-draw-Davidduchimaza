@@ -8,6 +8,6 @@ function draw(){
   ellipse(50,50,80,80);
 
   fill(225,0,0);
- ellipse(250,50,80,80);
+ ellipse(200,50,80,80);
   
 }
